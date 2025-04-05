@@ -32,6 +32,17 @@
     - Выполняет `FetchAsync` и `ActivateAsync`.
     - Выводит полученные актуальные данные в окно (и в консоль).
 
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/8fe247c4-e856-49a1-bcb8-686bf1c967fa" />
+
+---
+
+<img width="622" alt="image" src="https://github.com/user-attachments/assets/176b6636-22ea-43ba-ba48-6c91359f3de5" />
+
+<img width="1146" alt="image" src="https://github.com/user-attachments/assets/e9bb707a-74c2-41ff-be8b-57c4291744eb" />
+
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/53852bb0-1d48-4894-ae84-4a62d8f09f81" />
+
+
 Таким образом, вы можете многократно изменять параметры Remote Config в консоли, публиковать их, а затем нажимать «Restart Firebase and Fetch Remote Config» — и получать новые значения **сразу**, без запуска Play Mode и без перезапуска Unity.
 
 ---
